@@ -29,7 +29,7 @@ Command:
  \n\
  \n\
  \n\
- \n:local hostScriptUrl \"https://raw.githubusercontent.com/syabiz/MikroTik-AdBlocks/main/mikrotik-adblocks\";\
+ \n:local hostScriptUrl \"https://raw.githubusercontent.com/syabiz/MikroTik-AdBlocks/main/blockhost.txt\";\
  \n\
  \n\
  \n\
