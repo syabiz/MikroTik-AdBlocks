@@ -1,19 +1,5 @@
-## Script generated 07/22/2021 at 17:20:33 (16749 entries) for 5.922 sec.
-##
-## Hosts list sources:
-## > https://cdn.rawgit.com/tarampampam/static/master/hosts/block_shit.txt
-## > https://adaway.org/hosts.txt
-## > http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-## > http://someonewhocares.org/hosts/hosts
-## > http://getadhell.com/standard-package.txt
-## > https://www.micu.eu/adblock/youtube_complete.txt
-## > https://www.micu.eu/adblock/ad_list.txt
-##
-## mikrotik script location: https://www.micu.eu/adblock/adblock_script.txt
-## other mikrotik stuff: https://www.micu.eu/category/mikrotik/
-##
-## email: contact@micu.eu
-##
+## Script Update 23/July/2021.
+
 ## Exception hosts:
 ## > localhost
 
